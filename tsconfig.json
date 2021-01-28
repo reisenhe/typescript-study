@@ -1,0 +1,17 @@
+{
+/*
+    "include" 指定要被编译的文件目录
+           ** 表示任意目录
+            * 表示任意文件
+    "exclude" 不需要被编译的目录
+    "compilerOptions" 编译器选项，决定如何编译的具体
+*/ 
+    "include": [
+        "./example/**/*"
+    ],
+    // "exclude": []
+    "compilerOptions": {
+        "target": "ES2015",
+        "outDir": "./dist"
+    },
+}

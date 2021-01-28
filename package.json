@@ -1,0 +1,21 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "TS learning demo",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reisenhe/typescript-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reisenhe/typescript-study/issues"
+  },
+  "homepage": "https://github.com/reisenhe/typescript-study#readme",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
+}
