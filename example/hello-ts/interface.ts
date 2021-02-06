@@ -28,6 +28,7 @@ interface Game {
     name: string,
     sayCool(): void
 }
+
 class ACTGame implements Game {
     name: string;
     constructor(name:string) {
